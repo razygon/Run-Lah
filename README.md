@@ -6,6 +6,6 @@ Together with Alexa, Run-lah could give you the running routes information all o
 The project is not published in Alexa app store yet, to use it you need:
   * An Alexa
   * An AWS developer account
-  * Connect your Alexa with your developer account
-  * Upload the Archive.zip to Lambda
+  * Connect your Alexa with your developer account
+  * Upload the Archive.zip to Lambda
   * After successful upload, talk to Alexa "OPEN RUN LAH!"
